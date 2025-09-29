@@ -137,8 +137,8 @@ The Solana documentation is organized into several key sections covering core co
 
 ## Courses - Solana-pay
 
-- [Solana Pay](https://solana.com/courses/solana-pay/?utm_source=llms&utm_medium=ai&utm_campaign=txt): Request payments and initiate transactions using links and QR codes.
 - [Solana Pay](https://solana.com/courses/solana-pay/solana-pay?utm_source=llms&utm_medium=ai&utm_campaign=txt): How to create Solana Pay payment requests using links and QR codes.
+- [Solana Pay](https://solana.com/courses/solana-pay/?utm_source=llms&utm_medium=ai&utm_campaign=txt): Request payments and initiate transactions using links and QR codes.
 
 ## Courses - State-compression
 
@@ -646,7 +646,7 @@ The Solana documentation is organized into several key sections covering core co
 - [Creating Deterministic Accounts](https://solana.com/docs/en/intro/quick-start/program-derived-address?utm_source=llms&utm_medium=ai&utm_campaign=txt): Learn how to build a CRUD (Create, Read, Update, Delete) Solana program using Program Derived Addresses (PDAs) and the Anchor framework. This step-by-step guide demonstrates how to create, update, and delete on-chain message accounts using PDAs, implement account validation, and write tests. Perfect for developers looking to understand how to use PDAs in Solana programs.
 - [Cross Program Invocation](https://solana.com/docs/en/core/cpi?utm_source=llms&utm_medium=ai&utm_campaign=txt): Learn about Cross Program Invocation (CPI) on Solana - how programs can call instructions on other programs, handle PDA signers, and compose functionality across the Solana network.
 - [Data Structures as JSON](https://solana.com/docs/en/rpc/json-structures?utm_source=llms&utm_medium=ai&utm_campaign=txt)
-- [Deploying Programs](https://solana.com/docs/en/programs/deploying?utm_source=llms&utm_medium=ai&utm_campaign=txt): Uploading custom programs to the Solana blockchain using the Solana CLI.
+- [Deploying Programs](https://solana.com/docs/en/programs/deploying?utm_source=llms&utm_medium=ai&utm_campaign=txt): Complete guide to building, deploying, and managing Solana programs using the Solana CLI.
 - [Deploying Programs](https://solana.com/docs/en/intro/quick-start/deploying-programs?utm_source=llms&utm_medium=ai&utm_campaign=txt): Learn how to build, deploy, and test your first Solana program using the Anchor framework and Solana Playground. This beginner-friendly guide walks through creating a simple program, deploying it to devnet, running tests, and closing the program.
 - [Deposit Tokens](https://solana.com/docs/en/tokens/extensions/confidential-transfer/deposit-tokens?utm_source=llms&utm_medium=ai&utm_campaign=txt): Learn how to deposit tokens to confidential state.
 - [Direct Mapping](https://solana.com/docs/en/references/feature-gates/direct-mapping?utm_source=llms&utm_medium=ai&utm_campaign=txt)
